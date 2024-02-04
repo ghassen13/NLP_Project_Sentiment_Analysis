@@ -7,7 +7,7 @@ Identifier les aspects les plus fréquemment loués et critiqués dans les avis 
 Fournir des recommandations stratégiques basées sur les résultats de l'analyse pour améliorer l'expérience des passagers.
 
 # Instructions d'Utilisation
-Cloner ce dépôt vers votre machine locale.
-Installer les dépendances nécessaires en exécutant pip install -r requirements.txt.
-Explorer les notebooks Jupyter pour comprendre les différentes étapes de l'analyse.
-Exécuter les scripts Python pour reproduire l'analyse ou utiliser les modèles.
+- Cloner ce dépôt vers votre machine locale.
+- Installer les dépendances nécessaires en exécutant pip install -r requirements.txt.
+- Explorer les notebooks Jupyter pour comprendre les différentes étapes de l'analyse.
+- Exécuter les scripts Python pour reproduire l'analyse ou utiliser les modèles.
